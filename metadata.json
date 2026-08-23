@@ -1,0 +1,6 @@
+{
+  "name": "Exploradores de la Vida y los Ecosistemas",
+  "description": "Un viaje interactivo para descubrir, comprender y proteger la vida. Plataforma educativa para Ciencias Naturales en Educación General Básica.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
